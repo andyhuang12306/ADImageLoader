@@ -1,1 +1,1 @@
-include ':app', ':adimageloader2'
+include ':app', ':adimageloader'

@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ADImageLoader.iml" filepath="$PROJECT_DIR$/ADImageLoader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/adimageloader2/adimageloader2.iml" filepath="$PROJECT_DIR$/adimageloader2/adimageloader2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adimageloader/adimageloader.iml" filepath="$PROJECT_DIR$/adimageloader/adimageloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/adimageloader2" />
+            <option value="$PROJECT_DIR$/adimageloader" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
